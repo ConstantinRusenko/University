@@ -29,8 +29,8 @@ textarea { overflow: auto; }
 
 .header { background: url(images/header.png) repeat-x 0 0; height: 58px; padding: 29px 0 0 0;  }
 
-#logo { width: 171px; float: left; }
-#logo a { height: 28px; display: block; background: url(images/logo.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; }
+#logo { width: 236px; float: left; }
+#logo a { height: 34px; display: block; background: url(images/logo.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; }
 
 #navigation { float: right; padding-top: 8px;  }
 #navigation ul { list-style: none; list-style-position: outside; font-size: 11px; text-transform: uppercase; font-weight: bold; }
